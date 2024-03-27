@@ -21,7 +21,6 @@ email: mpkarthik31@gmail.com
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: longpdo
-bugcrowd_username: J1NX_18
 dev_username: 
 linkedin_username: exampleUser
 twitter_username: exampleUser
@@ -50,10 +49,12 @@ skills_title: Skills
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Education & Experience
+timeline_title: Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+# cv_download_link: https://example.com/
+
+timeline_title: Education
 
 # PROJECTS SECTION
 # show_projects_card:
